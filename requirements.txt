@@ -1,2 +1,4 @@
-
-   crewai
+crewai[anthropic]==1.15.39
+pandas
+python-dotenv
+ipykernel
