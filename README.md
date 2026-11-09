@@ -25,8 +25,7 @@ normativo, escenarios financieros y síntesis educativa.
 
 2. Elige el modelo de lenguaje.
 
-   **Con Claude.** Copia `.env.example` como `.env` y escribe tu llave de
-   https://platform.claude.com. El notebook ya está configurado así.
+   **Con Claude.** Copia `.env.example` como `.env` y escribe la llave.
 
    **Con un modelo local.** Instala Ollama, descarga el modelo con
    `ollama pull llama3.1` y en la segunda celda del notebook cambia la línea
